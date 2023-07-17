@@ -1,2 +1,2 @@
 # Python-Programs
-Just some junk space to practice code.
+Just a junk space to practice python.
